@@ -1,0 +1,39 @@
+article{
+	margin: 10px;
+	padding-top: 10px;
+}
+.card{
+	width: 50%;
+}
+
+.row{
+	width: 100%;	
+}
+ 
+ 
+h1{
+	font-size: 1.5em;
+	margin: 20px;
+	padding-right: 30px;
+
+}
+ 
+form{
+    font-size: 1em;
+    padding-left: 20px;
+    margin-bottom: 5px;
+}
+
+#form-button{
+	margin: 10px;
+}
+
+.input-group{
+	margin: 10px;
+}
+
+.reset{
+	position: fixed;
+	top: 20px;
+	right: 20px;
+}
